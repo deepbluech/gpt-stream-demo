@@ -15,6 +15,6 @@ flask
 
 ### openai key
 获取后填入 openai.api_key = ''
---
+-
 最后就可以看到一个一个字显示在浏览器中
 reference：https://betterprogramming.pub/openai-sse-sever-side-events-streaming-api-733b8ec32897
